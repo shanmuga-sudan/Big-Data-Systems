@@ -1,0 +1,6 @@
+D:\INFO 7250\Homework\HW4\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\INFO 7250\Homework\HW4\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\INFO 7250\Homework\HW4\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\INFO 7250\Homework\HW4\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\INFO 7250\Homework\HW4\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\INFO 7250\Homework\HW4\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

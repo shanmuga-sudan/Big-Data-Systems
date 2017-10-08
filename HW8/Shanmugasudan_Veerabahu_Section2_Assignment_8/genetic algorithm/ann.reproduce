@@ -1,0 +1,29 @@
+        private Individual[] Reproduce(Individual parent1, Individual parent2,
+            double minGene, double maxGene, double mutateRate, double mutateChange)
+        {
+            int numGenes = parent1.chromosome.Length;
+            int cross = rnd.Next(0, numGenes - 1); // crossover point. 0 means 'between 0 and 1'.
+
+            Individual child1 = new Individual(numGenes, minGene, maxGene,
+            mutateRate, mutateChange); // random chromosome
+            Individual child2 = new Individual(numGenes, minGene, maxGene,
+            mutateRate, mutateChange);
+
+            for (int i = 0; i <= cross; ++i)
+                child1.chromosome[i] = parent1.chromosome[i];
+            for (int i = cross + 1; i < numGenes; ++i)
+                child2.chromosome[i] = parent1.chromosome[i];
+            for (int i = 0; i <= cross; ++i)
+                child2.chromosome[i] = parent2.chromosome[i];
+            for (int i = cross + 1; i < numGenes; ++i)
+                child1.chromosome[i] = parent2.chromosome[i];
+
+            Mutate(child1, maxGene, mutateRate, mutateChange);
+            Mutate(child2, maxGene, mutateRate, mutateChange);
+
+            Individual[] result = new Individual[2];
+            result[0] = child1;
+            result[1] = child2;
+
+            return result;
+        } // Reproduce

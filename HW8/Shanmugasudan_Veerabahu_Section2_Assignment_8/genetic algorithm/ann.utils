@@ -1,0 +1,62 @@
+        private double MeanSquaredError(double[][] trainData,
+            double[] weights)
+        {
+            // how far off are computed values from desired values
+            this.SetWeights(weights);
+
+            double[] xValues = new double[numInput]; // inputs
+            double[] tValues = new double[numOutput]; // targets
+            double sumSquaredError = 0.0;
+            for (int i = 0; i < trainData.Length; ++i)
+            {
+                // assumes data has x-values followed by y-values
+                Array.Copy(trainData[i], xValues, numInput);
+                Array.Copy(trainData[i], numInput, tValues, 0,
+                    numOutput);
+                double[] yValues = this.ComputeYs(xValues);
+                for (int j = 0; j < yValues.Length; ++j)
+                    sumSquaredError += ((yValues[j] - tValues[j]) *
+                                        (yValues[j] - tValues[j]));
+            }
+            return sumSquaredError / trainData.Length;
+        }
+
+        public double Accuracy(double[][] testData)
+        {
+            // percentage correct using 'winner-takes all'
+            int numCorrect = 0;
+            int numWrong = 0;
+            double[] xValues = new double[numInput]; // inputs
+            double[] tValues = new double[numOutput]; // targets
+            double[] yValues; // computed outputs
+
+            for (int i = 0; i < testData.Length; ++i)
+            {
+                Array.Copy(testData[i], xValues, numInput);
+                Array.Copy(testData[i], numInput, tValues, 0,
+                    numOutput);
+                yValues = this.ComputeYs(xValues);
+
+                int maxIndex = MaxIndex(yValues);
+
+                if (tValues[maxIndex] == 1.0) // not so nice
+                    ++numCorrect;
+                else
+                    ++numWrong;
+            }
+            return (numCorrect * 1.0) / (numCorrect + numWrong);
+        }
+
+        private static int MaxIndex(double[] vector)
+        {
+            int bigIndex = 0;
+            double biggestVal = vector[0];
+            for (int i = 0; i < vector.Length; ++i)
+            {
+                if (vector[i] > biggestVal)
+                {
+                    biggestVal = vector[i]; bigIndex = i;
+                }
+            }
+            return bigIndex;
+        }

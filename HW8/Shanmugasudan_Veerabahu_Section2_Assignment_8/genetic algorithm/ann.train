@@ -1,0 +1,67 @@
+        public double[] Train(double[][] trainData,
+            int popSize, int maxGeneration, double exitError,
+            double mutateRate, double mutateChange, double tau)
+        {
+            // use Evolutionary Optimization to train NN
+
+            int numWeights = (this.numInput * this.numHidden) +
+            (this.numHidden * this.numOutput) +
+            this.numHidden + this.numOutput; // = numGenes
+
+            double minX = -10.0; // could be parameters. = minGene
+            double maxX = 10.0;
+
+            // initialize population
+            Individual[] population = new Individual[popSize];
+            double[] bestSolution = new double[numWeights]; // best solution any individual
+            double bestError = double.MaxValue; // smaller values better
+
+            for (int i = 0; i < population.Length; ++i)
+            {
+                population[i] = new Individual(numWeights, minX, maxX, mutateRate,
+                    mutateChange); // random values
+                double error = MeanSquaredError(trainData, population[i].chromosome);
+                population[i].error = error;
+                if (population[i].error < bestError)
+                {
+                    bestError = population[i].error;
+                    Array.Copy(population[i].chromosome, bestSolution, numWeights);
+                }
+            }
+
+            // main EO processing loop
+            int gen = 0; bool done = false;
+            while (gen < maxGeneration && done == false)
+            {
+                Individual[] parents = Select(2, population, tau); // 2 good Individuals
+                Individual[] children = Reproduce(parents[0], parents[1], minX, maxX,
+                    mutateRate, mutateChange); // create 2 children
+                children[0].error = MeanSquaredError(trainData, children[0].chromosome);
+                children[1].error = MeanSquaredError(trainData, children[1].chromosome);
+
+                Place(children[0], children[1], population); // sort pop, replace two worst 
+
+                // immigration
+                // kill off third-worst Individual and replace with new Individual
+                // assumes population is sorted (via Place()
+                Individual immigrant = new Individual(numWeights, minX, maxX, mutateRate, mutateChange);
+                immigrant.error = MeanSquaredError(trainData, immigrant.chromosome);
+                population[population.Length - 3] = immigrant; // replace third worst individual
+
+                for (int i = popSize - 3; i < popSize; ++i) // check the 3 new Individuals
+                {
+                    if (population[i].error < bestError)
+                    {
+                        bestError = population[i].error;
+                        population[i].chromosome.CopyTo(bestSolution, 0);
+                        if (bestError < exitError)
+                        {
+                            done = true;
+                            Console.WriteLine("\nEarly exit at generation " + gen);
+                        }
+                    }
+                }
+                ++gen;
+            }
+            return bestSolution;
+        } // Train

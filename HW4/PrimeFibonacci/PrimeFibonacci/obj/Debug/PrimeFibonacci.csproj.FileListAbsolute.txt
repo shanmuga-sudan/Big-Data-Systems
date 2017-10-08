@@ -1,0 +1,6 @@
+D:\INFO 7250\Homework\HW4\PrimeFibonacci\PrimeFibonacci\bin\Debug\PrimeFibonacci.exe.config
+D:\INFO 7250\Homework\HW4\PrimeFibonacci\PrimeFibonacci\bin\Debug\PrimeFibonacci.exe
+D:\INFO 7250\Homework\HW4\PrimeFibonacci\PrimeFibonacci\bin\Debug\PrimeFibonacci.pdb
+D:\INFO 7250\Homework\HW4\PrimeFibonacci\PrimeFibonacci\obj\Debug\PrimeFibonacci.csprojResolveAssemblyReference.cache
+D:\INFO 7250\Homework\HW4\PrimeFibonacci\PrimeFibonacci\obj\Debug\PrimeFibonacci.exe
+D:\INFO 7250\Homework\HW4\PrimeFibonacci\PrimeFibonacci\obj\Debug\PrimeFibonacci.pdb

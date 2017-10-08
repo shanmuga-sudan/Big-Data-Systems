@@ -1,0 +1,1162 @@
+A.E._Wood	0.01:Castorimorpha
+A_Lang|Lang	0.01:Apterygota
+Acanthisittidae	0.01:Passeriformes
+Acanthochitonina	0.01:Polyplacophora
+Acanthodiformes	0.01:Acanthodii
+Acanthodii	0.02:Climatiiformes Ischnacanthiformes Acanthodiformes
+Acanthopterygii	0.03:Teleostei
+Acanthothoraci	0.01:Placodermi
+Accipitridae	0.01:Falconiformes
+Accipitriformes	0.02
+Acontiaria	0.01:Thenaria
+Actinernidae	0.01:Endocoelantheae
+Actiniaria	0.04:Hexacorallia Actiniaria Endocoelantheae Nyantheae Protantheae Ptychodacteae
+Actinopterygii	0.02:Chondrostei Neopterygii Klein
+Aegothelidae	0.01:Caprimulgiformes
+Aepyornithiformes	0.01:Palaeognathae
+Afrosoricida	0.02:Chrysochloridea Tenrecomorpha Stanhope
+Agamidae	0.01:Iguania
+Agnostida	0.01:Trilobita
+Agnotozoa	0.02
+Ailuridae	0.01:Fissipedia
+Albuliformes	0.01:Elopomorpha
+Alcae	0.01:Charadriiformes
+Alcedinidae	0.01:Coraciiformes
+Alcyonaria (Octocorallia)	0.02
+Alligatoridae	0.01:Eusuchia
+Allophrynidae	0.01:Neobatrachia
+Altichnus	0.01:Phoronidae
+Alytidae	0.01:Archaeobatrachia
+Ambiortiformes	0.01:Palaeognathae
+Ambystomatidae	0.01:Salamandroidea
+Ameghino	0.02:Microbiotheria
+Amphibia	0.02:Labyrinthodontia Lepospondyli Lissamphibia John_Edward_Gray_|Gray
+Amphicyonidae	0.01:Fissipedia
+Amphignathodontidae	0.01:Neobatrachia
+Amphiorycteropus	0.01:Orycteropodidae
+Amphisbaenia	0.03:Amphisbaenidae Trogonophidae Bipedidae Rhineuridae
+Amphisbaenidae	0.01:Amphisbaenia
+Amphiumidae	0.01:Salamandroidea
+Anapsida	0.01:Reptilia
+Anaspida	0.01:Vertebrata
+Anathana	0.01:Tupaiidae
+Anatidae	0.01:Anseriformes
+Anchilophidae	0.01:Perissodactyla
+Andresiidae	0.01:Athenaria
+Andwakiidae	0.01:Athenaria
+Anguidae	0.01:Diploglossa
+Anguilliformes	0.01:Elopomorpha
+Anhimidae	0.01:Anseriformes
+Anhingidae	0.01:Pelecaniformes
+Animalia	0:	0.01:Template
+Annelida	0.02:Polychaeta Clitellata Myzostomida Archiannelida
+Anniellidae	0.01:Diploglossa
+Anomalodesmata	0.03:Bivalvia Anomalodesmata Pholadomyoida Septibranchia Dall
+Anomaluromorpha	0.01:Rodentia
+Anopla	0.01:Nemertea
+Anseranatidae	0.01:Anseriformes
+Anseriformes	0.03:Neognathae
+Anthoptilidae	0.01:Sessiliflorae
+Anthozoa	0.03
+Antiarchi	0.01:Placodermi
+Antipatharia	0.01:Hexacorallia
+Anura	0.02:Archaeobatrachia Mesobatrachia Neobatrachia Merrem
+Aotidae	0.01:Primates
+Aplacophora	0.03:Caudofoveata Solenogastres
+Apochaela	0.03:Eutardigrada
+Apodidae	0.01:Apodiformes
+Apodiformes	0.03:Neognathae
+Apterygiformes	0.01:Palaeognathae
+Apterygota	0.02:Archaeognatha A_Lang|Lang
+Arachnida	0.01:Chelicerata
+Aramidae	0.01:Gruiformes
+Archaeobatrachia	0.03:Anura
+Archaeoceti	0.01:Cetacea
+Archaeocyatha	0.01:Porifera
+Archaeognatha	0.01:Apterygota
+Archiannelida	0.01:Annelida
+Archisagittoidea	0.01:Chaetognatha
+Architaenioglossa	0.01:Caenogastropoda
+Arcoida	0.01:Pteriomorphia
+Ardeidae	0.01:Ciconiiformes
+Argentiniformes	0.01:Protacanthopterygii
+Aromobatidae	0.01:Neobatrachia
+Arthrodira	0.01:Placodermi
+Arthroleptidae	0.01:Neobatrachia
+Arthropleuridea	0.01:Myriapoda
+Arthrotardigrada	0.03:Batillipedidae Coronarctidae Halechiniscidae Neostygarctidae Renaudarctidae Stygarctidae Marcus
+Artiodactyla	0.02:Suina Tylopoda Ruminantia Owen
+Asaphida	0.01:Trilobita
+Ascidiacea	0.01:Urochordata
+Ateleopodiformes	0.01:Stenopterygii
+Atelidae	0.01:Primates
+Athenaria	0.04:Nyantheae
+Atherinomorpha	0.01:Acanthopterygii
+Aulopiformes	0.01:Cyclosquamata
+Aves	0.02:Carinatae Odontornithes Omnivoropterygiformes Saurornithes Incertae_sedis_Aves|incertae_sedis
+Baenidae	0.01:Cryptodira
+Baeriida	0.01:Calcaronea
+Balaenicipitidae	0.01:Ciconiiformes
+Bathocyroidae	0.01:Lobata
+Batillipedidae	0.01:Arthrotardigrada
+Batrachoidiformes	0.01:Paracanthopterygii
+Beornidae	0.01:Parachaela
+Beroida	0.01:Nuda
+Beurlen	0.01:Pteriomorphia
+Bidder	0.01:Calcinea
+Bipedidae	0.01:Amphisbaenia
+Bivalvia	0.04:Anomalodesmata
+Blumenbach	0.01:Chiroptera
+Bolinopsidae	0.01:Lobata
+Boloceroidaria	0.04:Nyantheae
+Boloceroididae	0.01:Boloceroidaria
+Bombinatoridae	0.01:Archaeobatrachia
+Bonaparte	0.03:Monotremata
+Bowdich	0.02:Rodentia
+Brachiopoda	0.02:Craniiformea Linguliformea Rhynchonelliformea
+Brachycephalidae	0.01:Neobatrachia
+Brachypteraciidae	0.01:Coraciiformes
+Branchiopoda	0.01:Crustacea
+Brevicipitidae	0.01:Neobatrachia
+Brindabellaspida	0.01:Placodermi
+Brisson	0.03:Cetacea
+Brontotheriidae	0.01:Perissodactyla
+Brünnich	0.01:Crustacea
+Bucconidae	0.01:Piciformes
+Bucerotidae	0.01:Coraciiformes
+Bufonidae	0.01:Neobatrachia
+Butler	0.01:Macroscelidea
+Cacatuidae	0.01:Psittaciformes
+Caenidae	0.01:Caenoidea
+Caenogastropoda	0.03:Orthogastropoda
+Caenogastropoda_incertae_sedis|Incertae_;sedis	0.01:Caenogastropoda
+Caenoidea	0.03:Pannota
+Caenolestidae	0.01:Paucituberculata
+Caenophidia	0.01:Serpentes
+Calcarea	0.01:Porifera
+Calcaria	0.02
+Calcaria	0:	0.01:Template
+Calcaronea	0.02:Baeriida Leucosoleniida Lithonida
+Calcinea	0.02:Clathrinida Murrayonida Bidder
+Calcinea	0:	0.01:Template
+Calohypsibiidae	0.01:Parachaela
+Calyptocephalellidae	0.01:Neobatrachia
+Camp	0.01:Scincomorpha
+Canidae	0.01:Fissipedia
+Caniformia	0.01:Carnivora
+Caprimulgidae	0.01:Caprimulgiformes
+Caprimulgiformes	0.03:Aegothelidae Caprimulgidae Nyctibiidae Podargidae Steatornithidae
+Carapacea	0.01:Ephemeroptera
+Carcharhiniformes	0.01:Selachimorpha
+Cariamidae	0.01:Gruiformes
+Carinatae	0.01:Aves
+Carlgren	0.060000000000000005:Endocoelantheae
+Carnivora	0.02:Caniformia Feliformia Miacoidea Bowdich
+Carolus_Linnaeus|Linnaeus	0.01:Homo sapiens
+Carphanidae	0.01:Echiniscoidea
+Carukia	0.02:Southcott
+Carybdea	0.03:Carybdeidae
+Carybdeida	0.01:Cubozoa
+Carybdeidae	0.02:Carybdea Manokia Tripedalia Gegenbaur
+Castoridae	0.01:Castorimorpha
+Castorimorpha	0.03:Rodentia
+Casuariidae	0.03:Casuariiformes
+Casuariiformes	0.03:Palaeognathae
+Casuarius	0.03:Brisson
+Cateriidae	0.01:Cryptorhagae
+Cathartidae	0.01:Ciconiiformes
+Caudofoveata	0.03:Chaetodermatidae Falcidentidae Limifossoridae Metachaetodermatidae Prochaetodermatidae Scutopidae
+Caullery	0.01:Pelmatosphaera
+Caviomorpha	0.01:Hystricognathi
+Cebidae	0.01:Primates
+Centroderidae	0.01:Cyclorhagae
+Centrolenidae	0.01:Neobatrachia
+Cephalocarida	0.01:Crustacea
+Cephalochordata	0.03:Chordata
+Cephalopoda	0.01:Mollusca
+Cephalorhyncha	0.02
+Ceratobatrachidae	0.01:Neobatrachia
+Ceratodontidae	0.01:Ceratodontiformes
+Ceratodontiformes	0.04:Ceratodontiformes
+Ceratophryidae	0.01:Neobatrachia
+Cercopithecidae	0.01:Primates
+Ceriantharia	0.01:Hexacorallia
+Cetacea	0.02:Archaeoceti Mysticeti Odontoceti Brisson
+Chaeropodidae	0.01:Peramelemorphia
+Chaetodermatidae	0.01:Caudofoveata
+Chaetognatha	0.02:Archisagittoidea Sagittoidea
+Chalicotheriidae	0.01:Perissodactyla
+Chamaeleonidae	0.01:Iguania
+Characiformes	0.01:Ostariophysi
+Charadrii	0.01:Charadriiformes
+Charadriiformes	0.03:Alcae Charadrii Lari
+Cheirogaleidae	0.01:Primates
+Chelicerata	0.02:Arachnida Merostomata Pycnogonida Eurypterida Richard_Heymons|Heymons
+Chelidoidea	0.01:Pleurodira
+Chelonioidea	0.01:Cryptodira
+Chilopoda	0.01:Myriapoda
+Chimaeriformes	0.03:Chimaeroidei
+Chimaeroidei	0.01:Chimaeriformes
+Chirodectes	0.01:Chirodropidae
+Chirodropida	0.01:Cubozoa
+Chirodropidae	0.02:Chirodectes Chirodropus Chironex Chiropsalmus Chiropsella Chirosoides Haeckel
+Chirodropus	0.03:Haeckel
+Chironex	0.03:Southcott
+Chiropsalmus	0.03:L._Agassiz
+Chiropsella	0.01:Chirodropidae
+Chiroptera	0.02:Megachiroptera Microchiroptera Blumenbach
+Chirosoides	0.03:Southcott
+Chondrichthyes	0.02:Elasmobranchii Holocephali
+Chondrostei	0.01:Actinopterygii
+Chordata	0.03:Deuterostomia
+Choriplacina	0.01:Polyplacophora
+Chromadorea	0.01:Nematoda
+Chrysochloridea	0.01:Afrosoricida
+Chunellidae	0.01:Sessiliflorae
+Ciconiidae	0.01:Ciconiiformes
+Ciconiiformes	0.03:Ardeidae Balaenicipitidae Cathartidae Ciconiidae Scopidae Threskiornithidae
+Cingulata	0.01:Xenarthra
+Cladoselachiformes	0.01:Selachimorpha
+Classis	0.04:Ordo
+Clathrinida	0.01:Calcinea
+Climatiiformes	0.01:Acanthodii
+Clitellata	0.01:Annelida
+Clupeiformes	0.01:Clupeomorpha
+Clupeomorpha	0.03:Clupeiformes
+Cnidaria	0.02:Anthozoa
+Cocculiniformia	0.01:Orthogastropoda
+Coelacanthidae	0.01:Coelacanthiformes
+Coelacanthiformes	0.04:Coelacanthiformes
+Coelacanthimorpha	0.01:Sarcopterygii
+Coliidae	0.01:Coliiformes
+Coliiformes	0.03:Coliidae
+Columbidae	0.01:Columbiformes
+Columbiformes	0.03:Raphidae Columbidae
+Conant	0.01:Tripedalia
+Conchorhagae	0.03:Cyclorhagida
+Conodonta	0.01:Vertebrata
+Cope	0.02:Xenarthra
+Coraciidae	0.01:Coraciiformes
+Coraciiformes	0.03:Neognathae
+Corallimorpharia	0.01:Hexacorallia
+Cordylidae	0.01:Scincomorpha
+Coronarctidae	0.01:Arthrotardigrada
+Corynexochida	0.01:Trilobita
+Corytophanidae	0.01:Iguania
+Cracidae	0.01:Galliformes
+Craniiformea	0.01:Brachiopoda
+Craugastoridae	0.01:Neobatrachia
+Crocodilia	0.03:Reptilia
+Crocodylidae	0.01:Eusuchia
+Crotaphytidae	0.01:Iguania
+Crustacea	0.02:Branchiopoda Cephalocarida Malacostraca Maxillopoda Ostracoda Remipedia Brünnich
+Cryptobatrachidae	0.01:Neobatrachia
+Cryptobranchidae	0.01:Cryptobranchoidea
+Cryptobranchoidea	0.03:Cryptobranchidae Hynobiidae Dunn
+Cryptodira	0.03:Testudines
+Cryptorhagae	0.03:Cyclorhagida
+Cryptostomida	0.01:Stenolaemata
+Ctenophora	0.02:Tentaculata Nuda Eschscholtz
+Ctenothrissiformes	0.01:Polymixiomorpha
+Cubomedusae	0.01:Cubozoa
+Cubozoa	0.02:Carybdeida Chirodropida Cubomedusae
+Cuculidae	0.01:Cuculiformes
+Cuculiformes	0.03:Cuculidae Opisthocomidae
+Cuvier	0.01:Gekkota
+Cuvier|F._Cuvier	0.01:Gastropoda
+Cyclocoela	0.01:Tentaculata
+Cycloconchidae	0.01:Heterodonta
+Cycloneuralia	0.01:Ecdysozoa
+Cycloramphidae	0.01:Neobatrachia
+Cyclorhagae	0.03:Centroderidae Dracoderidae Echinoderidae
+Cyclorhagida	0.03:Kinorhyncha
+Cyclosquamata	0.04:Cyclosquamata
+Cyclostomatida	0.01:Stenolaemata
+Cynocephalidae	0.03:Dermoptera
+Cynocephalus	0.01:Cynocephalidae
+Cypriniformes	0.01:Ostariophysi
+Cyrtonellida	0.01:Monoplacophora
+Cystoporida	0.01:Stenolaemata
+Dall	0.01:Anomalodesmata
+Dasyuridae	0.01:Dasyuromorphia
+Dasyuromorphia	0.02:Dasyuridae Myrmecobiidae Thylacinidae Gill
+Daubentoniidae	0.01:Primates
+Deinotheriidae	0.01:Proboscidea
+Demospongiae	0.01:Porifera
+Dendrobatidae	0.01:Neobatrachia
+Dendrogale	0.01:Tupaiidae
+Dendrohyrax	0.01:Procaviidae
+Deperetellidae	0.01:Perissodactyla
+Dermoptera	0.02:Cynocephalidae Mixodectidae Plagiomenidae Illiger
+Dermotherium	0.01:Cynocephalidae
+Derorhynchidae	0.01:Didelphimorphia
+Desmostylia	0.02:Desmostylidae Paleoparadoxiidae
+Desmostylidae	0.01:Desmostylia
+Deuterostomia	0.02:Chordata Echinodermata Hemichordata Xenoturbellida Vetulicolia
+Diapsida	0.01:Reptilia
+Dibamidae	0.01:Gekkota
+Dicamptodontidae	0.01:Salamandroidea
+Dicondylia	0.03:Insecta
+Dicroglossidae	0.01:Neobatrachia
+Didelphidae	0.01:Didelphimorphia
+Didelphimorphia	0.02:Didelphidae Derorhynchidae Sparassocynidae Unassigned_Didelphimorphia|Unassigned Gill
+Dinornithiformes	0.01:Palaeognathae
+Diomedeidae	0.01:Procellariiformes
+Diploglossa	0.03:Anguidae Anniellidae Xenosauridae
+Diplopoda	0.01:Myriapoda
+Dipnoi	0.03:Sarcopterygii
+Diprotodontia	0.02:Macropodiformes Phalangeriformes Vombatiformes Unassigned_Diprotodontia|Unassigned Owen
+Docoglossa	0.01:Eogastropoda
+Dracoderidae	0.01:Cyclorhagae
+Dromaiidae	0.01:Casuariiformes
+Dromornithidae	0.01:Anseriformes
+Dubois	0.01:Sirenoidea
+Dugongidae	0.01:Sirenia
+Dunn	0.02:Cryptobranchoidea
+Ecdysozoa	0.03:Cycloneuralia Panarthropoda
+Echiniscidae	0.01:Echiniscoidea
+Echiniscoidea	0.03:Carphanidae Echiniscidae Echiniscoididae Oreellidae Marcus
+Echiniscoididae	0.01:Echiniscoidea
+Echinoderidae	0.01:Cyclorhagae
+Echinodermata	0.03:Eleutherozoa Homalozoa Pelmatozoa
+Echinoptilidae	0.01:Sessiliflorae
+Ectoprocta	0.02
+Edmunds	0.02:Caenoidea
+Edwardsiidae	0.01:Athenaria
+Elasmobranchii	0.03:Rajomorphii Selachimorpha incertae_sedis_Elasmobranchii|incertae_sedis
+Elephantidae	0.03:Gray
+Elephantulus	0.01:Macroscelididae
+Eleutherodactylidae	0.01:Neobatrachia
+Eleutherozoa	0.01:Echinodermata
+Elopiformes	0.01:Elopomorpha
+Elopomorpha	0.03:Teleostei
+Emballonuroidea	0.01:Microchiroptera
+Endocoelantheae	0.04:Actiniaria
+Endomyaria	0.01:Thenaria
+Enopla	0.01:Nemertea
+Enoplea	0.01:Nematoda
+Enteropneusta	0.01:Hemichordata
+Entoprocta	0.02:Loxosomatida Pedicellinida Urnatellida Heinrich_Nitsche|Nitsche
+Eogastropoda	0.04:Eogastropoda Docoglossa Euomphalina Neomphalida Eogastropoda_incertae_sedis|Incertae_;sedis Ponder Lindberg
+Eogastropoda_incertae_sedis|Incertae_;sedis	0.01:Eogastropoda
+Eohypsibiidae	0.01:Parachaela
+Eomoropidae	0.01:Perissodactyla
+Eomyidae	0.01:Rodentia
+Ephemerellidae	0.01:Ephemerelloidea
+Ephemerelloidea	0.03:Ephemerellidae Leptohyphidae Mesonetidae Teloganodidae Tricorythidae
+Ephemeroptera	0.02:Carapacea Furcatergalia Pisciformia Permoplectoptera Protephemeroptera
+Eptatretinae	0.01:Myxinidae
+Equidae	0.01:Perissodactyla
+Eschscholtz	0.01:Ctenophora
+Esociformes	0.01:Protacanthopterygii
+Euarthropoda	0.02
+Eugeneodontida	0.01:Selachimorpha
+Euglenozoa	0.02:Plicostoma Saccostoma
+Euomphalina	0.01:Eogastropoda
+Eupleridae	0.01:Fissipedia
+Eurhamphaeidae	0.01:Lobata
+Eurylaimides	0.01:Tyranni
+Eurypterida	0.01:Chelicerata
+Eurypygidae	0.01:Gruiformes
+Eusuchia	0.03:Alligatoridae Crocodylidae Gavialidae Hylaeochampsidae Stomatosuchidae
+Eutardigrada	0.03:Tardigrada
+F.E._von_Schultze|Schultze	0.02:Trichoplax
+Falcidentidae	0.01:Caudofoveata
+Falconidae	0.01:Falconiformes
+Falconiformes	0.03:Neognathae
+Felidae	0.01:Fissipedia
+Feliformia	0.01:Carnivora
+Fenestrida	0.01:Stenolaemata
+Fissipedia	0.02:Ailuridae Amphicyonidae Canidae Eupleridae Felidae Herpestidae Hyaenidae Mephitidae Mustelidae Nimravidae Procyonidae Ursidae Viverridae
+Fregatidae	0.01:Pelecaniformes
+Funiculinidae	0.01:Sessiliflorae
+Furcatergalia	0.01:Ephemeroptera
+Félix_Mesnil|Mesnil	0.01:Pelmatosphaera
+Fürbringer	0.01:Podicipediformes
+G.R._Gray	0.01:Pterocnemia
+Gadiformes	0.01:Paracanthopterygii
+Galagidae	0.01:Primates
+Galatheanthemidae	0.01:Athenaria
+Galbulidae	0.01:Piciformes
+Galeaspida	0.01:Vertebrata
+Galeopterus	0.01:Cynocephalidae
+Galliformes	0.03:Megapodiidae Cracidae Phasianidae Odontophoridae Numididae Mesitornithidae
+Gansuiformes	0.01:Palaeognathae
+Gastropoda	0.03:Eogastropoda Orthogastropoda Gastropoda_incertae_sedis|Incertae_sedis Cuvier|F._Cuvier
+Gastropoda_incertae_sedis|Incertae_sedis	0.01:Gastropoda
+Gavialidae	0.01:Eusuchia
+Gaviidae	0.01:Gaviiformes
+Gaviiformes	0.03:Neognathae
+Gegenbaur	0.01:Carybdeidae
+Gekkonidae	0.01:Gekkota
+Gekkota	0.03:Sauria
+Geomorpha	0.01:Sciurognathi
+Geomyidae	0.01:Castorimorpha
+Geotriinae	0.01:Petromyzontidae
+Gerrhosauridae	0.01:Scincomorpha
+Giard	0.01:Orthonectida
+Gill	0.02:Dasyuromorphia
+Gnathostomata_,_==_Name_==__[[Vertebrata	0.01:Vertebrata
+Gomphotheriidae	0.01:Proboscidea
+Gonactiniidae	0.01:Protantheae
+Gonorynchiformes	0.01:Ostariophysi
+Graptolithina	0.01:Hemichordata
+Gray	0.04:Orycteropodidae
+Gruidae	0.01:Gruiformes
+Gruiformes	0.03:Neognathae
+Gymnophthalmidae	0.01:Scincomorpha
+Gymnotiformes	0.01:Ostariophysi
+Haeckel	0.02:Chirodropus
+Halcampidae	0.01:Athenaria
+Halcampoididae	0.01:Athenaria
+Halcuriidae	0.01:Endocoelantheae
+Halechiniscidae	0.01:Arthrotardigrada
+Haliactiidae	0.01:Athenaria
+Haloclavidae	0.01:Athenaria
+Haplorrhini	0.01:Primates
+Harpetida	0.01:Trilobita
+Hederellida	0.01:Stenolaemata
+Heinrich_Nitsche|Nitsche	0.01:Entoprocta
+Helaletidae	0.01:Perissodactyla
+Helcionelloida	0.01:Mollusca
+Heleophrynidae	0.01:Neobatrachia
+Heliornithidae	0.01:Gruiformes
+Helodermatidae	0.01:Platynota
+Hemichordata	0.03:Enteropneusta Graptolithina Pterobranchia Hemichordata_incertae_sedis|''incertae_sedis''
+Hemichordata_incertae_sedis|''incertae_sedis''	0.01:Hemichordata
+Hemiphractidae	0.01:Neobatrachia
+Hemiprocnidae	0.01:Apodiformes
+Hemisotidae	0.01:Neobatrachia
+Henophidia	0.01:Serpentes
+Herpestidae	0.01:Fissipedia
+Heterobranchia	0.01:Orthogastropoda
+Heterodonta	0.02:Cycloconchidae Hippuritoida Lyrodesmatidae Myoida Redoniidae Veneroida de:Heterodonta en:Heterodonta es:Heterodonta eu:Heterodonta fr:Heterodonta it:Heterodonta ko:이치아강 lt:Heterodonta pt:Heterodonta sk:Heterodonta
+Heterodontiformes	0.01:Selachimorpha
+Heterohyrax	0.01:Procaviidae
+Heteromyidae	0.01:Castorimorpha
+Heterorhea	0.01:Rheidae
+Heterotardigrada	0.04:Tardigrada
+Hexacorallia	0.03:Actiniaria
+Hexactinellida	0.01:Porifera
+Hexanchiformes	0.01:Selachimorpha
+Hinasuri	0.01:Rheidae
+Hiodontiformes	0.01:Osteoglossomorpha
+Hippuritoida	0.01:Heterodonta
+Holocephali	0.03:Chimaeriformes
+Homalorhagae	0.03:Pycnophyidae Neocentrophyidae
+Homalorhagida	0.03:Homalorhagae
+Homalozoa	0.01:Echinodermata
+Hominidae	0.01:Primates
+Homo Sapiens	0.02
+Homo sapiens	0.02:Carolus_Linnaeus|Linnaeus
+Hoplocercidae	0.01:Iguania
+Huxley	0.03:Tubulidentata
+Hyaenidae	0.01:Fissipedia
+Hydrobatidae	0.01:Procellariiformes
+Hylaeochampsidae	0.01:Eusuchia
+Hylidae	0.01:Neobatrachia
+Hylobatidae	0.01:Primates
+Hylodidae	0.01:Neobatrachia
+Hynobiidae	0.01:Cryptobranchoidea
+Hyperoartia	0.01:Vertebrata
+Hyperoliidae	0.01:Neobatrachia
+Hypsibiidae	0.01:Parachaela
+Hyracodontidae	0.01:Perissodactyla
+Hyracoidea	0.02:Procaviidae Huxley
+Hystricognathi	0.02:Phiomorpha Caviomorpha
+Hystricomorpha	0.01:Rodentia
+Iguania	0.03:Sauria
+Iguanidae	0.01:Iguania
+Illiger	0.03:Dermoptera
+Incertae_Sedis_,_==_Name_==__''Proboscidea''_[[Illiger	0.01:Proboscidea
+Incertae_Sedis_,_==_Name_==__Onychophora_[[Grube	0.01:Onychophora
+Incertae_sedis_,_==_Name_==__Dipnoi_[[J._Müller	0.01:Dipnoi
+Incertae_sedis_,_==_Name_==__Mammalia_[[Linnaeus	0.01:Mammalia
+Incertae_sedis_,_==_Name_==__Nematoda_[[Rudolphi	0.01:Nematoda
+Incertae_sedis_,_==_Name_==__Paucituberculata_[[Ameghino	0.01:Paucituberculata
+Incertae_sedis_,_==_Name_==__Squamata_[[Oppel	0.01:Squamata
+Incertae_sedis_,_==_Name_==__Testudines_[[Linnaeus	0.01:Testudines
+Incertae_sedis_Aves|incertae_sedis	0.01:Aves
+Incertae_sedis_Porifera|Incertae_sedis	0.01:Porifera
+Incertae_sedis_Reptilia|incertae_sedis	0.01:Reptilia
+Incertae_sedis_Sphenisciformes|''incertae_sedis''	0.01:Sphenisciformes
+Incertae_sedis_Tentaculata|incertae_sedis	0.01:Tentaculata
+Indicatoridae	0.01:Piciformes
+Indriidae	0.01:Primates
+Infraclassis|Infraclassis_1	0.01:Subclassis
+Infraclassis|Infraclassis_2	0.01:Subclassis
+Infraclassis|Infraclassis_3	0.01:Subclassis
+Infraordo|Infraordo_1	0.01:Subordo
+Infraordo|Infraordo_2	0.01:Subordo
+Infraordo|Infraordo_3	0.01:Subordo
+Infraregnum|Infraregnum_1	0.01:Subregnum
+Infraregnum|Infraregnum_2	0.01:Subregnum
+Infraregnum|Infraregnum_3	0.01:Subregnum
+Insecta	0.02:basal_Insecta Dicondylia Linnaeus
+Insectivora	0.02
+Iotuba	0.01:Phoronidae
+Ischnacanthiformes	0.01:Acanthodii
+Ischnochitonina	0.01:Polyplacophora
+Isectolophidae	0.01:Perissodactyla
+Johann_Friedrich_von_Brandt|Brandt	0.01:Lagomorpha
+Johann_Friedrich_von_Eschscholtz|Eschscholtz	0.02:Tentaculata
+John_Edward_Gray_|Gray	0.01:Amphibia
+Jozaria	0.01:Proboscidea
+Kaup	0.01:Casuariidae
+Kinorhyncha	0.02:Cyclorhagida Homalorhagida
+Kinosternoidea	0.01:Cryptodira
+Kirsch	0.01:Notoryctemorphia
+Kiyohimeidae	0.01:Lobata
+Klein	0.01:Actinopterygii
+Kophobelemnidae	0.01:Sessiliflorae
+L.R._Cox	0.01:Caenogastropoda
+L._Agassiz	0.01:Chiropsalmus
+Labyrinthodontia	0.01:Amphibia
+Lacertidae	0.01:Scincomorpha
+Lagomorpha	0.02:Leporidae Ochotonidae Prolagidae Johann_Friedrich_von_Brandt|Brandt
+Lamniformes	0.01:Selachimorpha
+Lampoctenidae	0.01:Lobata
+Lampridiformes	0.01:Lampridiomorpha
+Lampridiomorpha	0.03:Teleostei
+Lanthanotidae	0.01:Platynota
+Lari	0.01:Charadriiformes
+Larvacea	0.01:Urochordata
+Latimeria	0.01:Latimeriidae
+Latimeriidae	0.04:Osteichthyes Sarcopterygii Coelacanthiformes Latimeriidae Latimeria Macropoma Swenzia
+Latreille	0.01:Iguania
+Laurent	0.01:Mesobatrachia
+Leiocephalidae	0.01:Iguania
+Leiopelmatidae	0.01:Archaeobatrachia
+Leiosauridae	0.01:Iguania
+Leiuperidae	0.01:Neobatrachia
+Lemuridae	0.01:Primates
+Lepidopleurina	0.01:Polyplacophora
+Lepidosirenidae	0.01:Lepidosireniformes
+Lepidosireniformes	0.03:Lepidosirenidae Protopteridae
+Lepilemuridae	0.01:Primates
+Leporidae	0.01:Lagomorpha
+Lepospondyli	0.01:Amphibia
+Leptocardia	0.01:Cephalochordata
+Leptodactylidae	0.01:Neobatrachia
+Leptohyphidae	0.01:Ephemerelloidea
+Leptorycteropus	0.01:Orycteropodidae
+Leptosomatidae	0.01:Coraciiformes
+Lesueur	0.01:Carybdea
+Leucosoleniida	0.01:Calcaronea
+Leucotheidae	0.01:Lobata
+Lichida	0.01:Trilobita
+Limifossoridae	0.01:Caudofoveata
+Limnactiniidae	0.01:Athenaria
+Limnodynastidae	0.01:Neobatrachia
+Lindberg	0.02:Eogastropoda
+Linguliformea	0.01:Brachiopoda
+Linnaeus	0.04:Struthio camelus
+Liolaemidae	0.01:Iguania
+Lissamphibia	0.01:Amphibia
+Lithonida	0.01:Calcaronea
+Lithornithiformes	0.01:Palaeognathae
+Lobata	0.02:Bathocyroidae Bolinopsidae Eurhamphaeidae Kiyohimeidae Lampoctenidae Leucotheidae Lobatolampeidae Ocyropsidae Lobata_with_uncertain_affinity Johann_Friedrich_von_Eschscholtz|Eschscholtz ca:Lobata de:Lobata en:Lobata fr:Lobata is:Kambhvelja pl:Lobata
+Lobata_with_uncertain_affinity	0.01:Lobata
+Lobatolampeidae	0.01:Lobata
+Lophialetidae	0.01:Perissodactyla
+Lophiiformes	0.01:Paracanthopterygii
+Lophiodontidae	0.01:Perissodactyla
+Lorisidae	0.01:Primates
+Loxosomatida	0.01:Entoprocta
+Lyrodesmatidae	0.01:Heterodonta
+Macrobiotidae	0.01:Parachaela
+Macropodiformes	0.01:Diprotodontia
+Macropoma	0.01:Latimeriidae
+Macroscelidea	0.02:Macroscelididae Butler
+Macroscelides	0.01:Macroscelididae
+Macroscelididae	0.03:Elephantulus Macroscelides Petrodromus Rhynchocyon Miosengi Bonaparte
+Main_Page	0.02:Subordo
+Malacostraca	0.01:Crustacea
+Mammalia	0.02:Prototheria Theria Incertae_sedis_,_==_Name_==__Mammalia_[[Linnaeus
+Mammutidae	0.01:Proboscidea
+Manidae	0.03:Pholidota
+Manokia	0.03:Carybdeidae
+Mantellidae	0.01:Neobatrachia
+Marcus	0.03:Arthrotardigrada
+Marsupialia	0.02:Illiger
+Mawsoniidae	0.01:Coelacanthiformes
+Maxillopoda	0.01:Crustacea
+McCafferty	0.01:Pannota
+Megachiroptera	0.03:Chiroptera
+Megapodiidae	0.01:Galliformes
+Megophryidae	0.01:Mesobatrachia
+Mephitidae	0.01:Fissipedia
+Meropidae	0.01:Coraciiformes
+Merostomata	0.01:Chelicerata
+Merrem	0.01:Anura
+Mesitornithidae	0.01:Galliformes
+Mesobatrachia	0.03:Anura
+Mesomyaria	0.01:Thenaria
+Mesonetidae	0.01:Ephemerelloidea
+Mesosuchia	0.01:Crocodilia
+Mesotardigrada	0.01:Tardigrada
+Metachaetodermatidae	0.01:Caudofoveata
+Metapterygota	0.01:Pterygota
+Metazoa	0.02
+Miacoidea	0.01:Carnivora
+Micrixalidae	0.01:Neobatrachia
+Microbiotheria	0.02:Microbiotheriidae Ameghino
+Microbiotheriidae	0.01:Microbiotheria
+Microchiroptera	0.03:Emballonuroidea Molossoidea Nataloidea Noctilionoidea Rhinolophoidea Rhinopomatoidea Vespertilionoidea
+Microhylidae	0.01:Neobatrachia
+Microhypsibiidae	0.01:Parachaela
+Milnesiidae	0.01:Apochaela
+Miosengi	0.01:Macroscelididae
+Mixodectidae	0.01:Dermoptera
+Moeritheriidae	0.01:Proboscidea
+Mollusca	0.02:Aplacophora Polyplacophora Monoplacophora Bivalvia Scaphopoda Gastropoda Cephalopoda Rostroconchia Helcionelloida
+Molossoidea	0.01:Microchiroptera
+Momotidae	0.01:Coraciiformes
+Monoplacophora	0.03:Mollusca
+Monotremata	0.02:Ornithorhynchidae Tachyglossidae Bonaparte
+Mordaciinae	0.01:Petromyzontidae
+Mugilomorpha	0.01:Acanthopterygii
+Murrayonida	0.01:Calcinea
+Musophagiformes	0.01:Neognathae
+Mustelidae	0.01:Fissipedia
+Myctophiformes	0.01:Scopelomorpha
+Myliobatiformes	0.01:Rajomorphii
+Myobatrachidae	0.01:Neobatrachia
+Myodonta	0.01:Sciurognathi
+Myoida	0.01:Heterodonta
+Myolaimina	0.01:Rhabditida
+Myomorpha	0.01:Rodentia
+Myorycteropus	0.01:Orycteropodidae
+Myriapoda	0.02:Chilopoda Diplopoda Pauropoda Symphyla Arthropleuridea
+Myrmecobiidae	0.01:Dasyuromorphia
+Mysticeti	0.01:Cetacea
+Mytiloida	0.01:Pteriomorphia
+Myxini	0.02:Myxiniformes
+Myxinidae	0.03:Eptatretinae Myxininae Paramyxininae Quadratinae
+Myxiniformes	0.03:Myxinidae
+Myxininae	0.01:Myxinidae
+Myzostomida	0.01:Annelida
+Müller	0.01:Tamoya
+Nasikabatrachidae	0.01:Neobatrachia
+Nataloidea	0.01:Microchiroptera
+Necopinatidae	0.01:Parachaela
+Necrosauridae	0.01:Platynota
+Nematoda	0.02:Chromadorea Enoplea Incertae_sedis_,_==_Name_==__Nematoda_[[Rudolphi
+Nemertea	0.02:Anopla Enopla
+Neobatrachia	0.03:Allophrynidae Amphignathodontidae Aromobatidae Arthroleptidae Brachycephalidae Brevicipitidae Bufonidae Calyptocephalellidae Centrolenidae Ceratobatrachidae Ceratophryidae Craugastoridae Cryptobatrachidae Cycloramphidae Dendrobatidae Dicroglossidae Eleutherodactylidae Heleophrynidae Hemiphractidae Hemisotidae Hylidae Hylodidae Hyperoliidae Leiuperidae Leptodactylidae Limnodynastidae Mantellidae Micrixalidae Microhylidae Myobatrachidae Nasikabatrachidae Nyctibatrachidae Petropedetidae Phrynobatrachidae Pseudidae Ptychadenidae Pyxicephalidae Ranidae Ranixalidae Rhacophoridae Rheobatrachidae Rhinodermatidae Sooglossidae Strabomantidae Reig
+Neocentrophyidae	0.01:Homalorhagae
+Neoephemeridae	0.01:Caenoidea
+Neognathae	0.02:Anseriformes Apodiformes Caprimulgiformes Charadriiformes Ciconiiformes Coliiformes Columbiformes Coraciiformes Cuculiformes Falconiformes Galliformes Gaviiformes Gruiformes Musophagiformes Passeriformes Pelecaniformes Phoenicopteriformes Piciformes Podicipediformes Procellariiformes Psittaciformes Pteroclidiformes Sphenisciformes Strigiformes Trochiliformes Trogoniformes Turniciformes
+Neomphalida	0.01:Eogastropoda
+Neopterygii	0.01:Actinopterygii
+Neostygarctidae	0.01:Arthrotardigrada
+Neritaemorphi	0.02
+Neritopsina	0.01:Orthogastropoda
+Nevadneidae	0.01:Boloceroidaria
+Newell	0.01:Paleoheterodonta
+Nimravidae	0.01:Fissipedia
+Noctilionoidea	0.01:Microchiroptera
+Notacanthiformes	0.01:Elopomorpha
+Notoryctemorphia	0.02:Notoryctidae Kirsch
+Notoryctidae	0.01:Notoryctemorphia
+Nuculoida	0.01:Protobranchia
+Nuda	0.03:Beroida
+Numididae	0.01:Galliformes
+Nyantheae	0.06999999999999999:Thenaria
+Nyctibatrachidae	0.01:Neobatrachia
+Nyctibiidae	0.01:Caprimulgiformes
+Ochotonidae	0.01:Lagomorpha
+Octineonidae	0.01:Athenaria
+Ocyropsidae	0.01:Lobata
+Odobenidae	0.01:Pinnipedia
+Odontoceti	0.01:Cetacea
+Odontophoridae	0.01:Galliformes
+Odontornithes	0.01:Aves
+Omnivoropterygiformes	0.01:Aves
+Onychodontida	0.01:Sarcopterygii
+Onychophora	0.02:Onychophorida Xenusia Incertae_Sedis_,_==_Name_==__Onychophora_[[Grube
+Onychophorida	0.01:Onychophora
+Ophidiiformes	0.01:Paracanthopterygii
+Opisthocomidae	0.01:Cuculiformes
+Opistodactylidae	0.01:Rheiformes
+Opluridae	0.01:Iguania
+Ordo	0.04:Ordo
+Orectolobiformes	0.01:Selachimorpha
+Oreellidae	0.01:Echiniscoidea
+Ornithorhynchidae	0.01:Monotremata
+Orthogastropoda	0.03:Caenogastropoda Cocculiniformia Heterobranchia Neritopsina Vetigastropoda Orthogastropoda_incertae_sedis|Incertae_;sedis Ponder Lindberg de:Orthogastropoda en:Orthogastropoda es:Orthogastropoda fr:Orthogastropoda ru:Настоящие_улитки tr:Orthogastropoda zh:直腹足亞綱
+Orthogastropoda_incertae_sedis|Incertae_;sedis	0.01:Orthogastropoda
+Orthonectida	0.02:Pelmatosphaeridae Rhopaluridae Giard
+Orycteropodidae	0.03:Tubulidentata
+Orycteropus	0.01:Orycteropodidae
+Osmeriformes	0.01:Protacanthopterygii
+Ostariophysi	0.03:Characiformes Cypriniformes Gonorynchiformes Gymnotiformes Siluriformes
+Osteichthyes	0.02:Coelacanthiformes
+Osteoglossiformes	0.01:Osteoglossomorpha
+Osteoglossomorpha	0.03:Hiodontiformes Osteoglossiformes
+Ostracoda	0.01:Crustacea
+Ostreoida	0.01:Pteriomorphia
+Otariidae	0.01:Pinnipedia
+Otididae	0.01:Gruiformes
+Owen	0.03:Diprotodontia
+Oxyuridomorpha	0.01:Rhabditida
+Palaeobatrachidae	0.01:Mesobatrachia
+Palaeocursornithiformes	0.01:Palaeognathae
+Palaeognathae	0.02:Ambiortiformes Gansuiformes Palaeocursornithiformes Casuariiformes Dinornithiformes Apterygiformes Rheiformes Lithornithiformes Aepyornithiformes Struthioniformes Tinamiformes Pycraft
+Palaeotheriidae	0.01:Perissodactyla
+Palaeotis	0.01:Struthionidae
+Paleoheterodonta	0.02:Trigonoidea Unionoida Newell
+Paleoparadoxiidae	0.01:Desmostylia
+Panarthropoda	0.01:Ecdysozoa
+Pandionidae	0.01:Falconiformes
+Pannota	0.02:Ephemerelloidea Caenoidea McCafferty Edmunds
+Paracanthopterygii	0.03:Teleostei
+Parachaela	0.03:Beornidae Calohypsibiidae Eohypsibiidae Hypsibiidae Macrobiotidae Microhypsibiidae Necopinatidae
+Paracryptodira	0.01:Testudines
+Paramyxininae	0.01:Myxinidae
+Parazoa	0.03:Parazoa Porifera
+Parazoa	0:	0.01:Template
+Parvigruidae	0.01:Gruiformes
+Passeriformes	0.03:Acanthisittidae
+Patriomanidae	0.01:Pholidota
+Paucituberculata	0.02:Caenolestidae Incertae_sedis_,_==_Name_==__Paucituberculata_[[Ameghino
+Pauropoda	0.01:Myriapoda
+Pedicellinida	0.01:Entoprocta
+Pelagiellida	0.01:Monoplacophora
+Pelecanidae	0.01:Pelecaniformes
+Pelecaniformes	0.03:Neognathae
+Pelecanoididae	0.01:Procellariiformes
+Pelmatosphaera	0.02:Caullery Félix_Mesnil|Mesnil
+Pelmatosphaeridae	0.03:Orthonectida
+Pelmatozoa	0.01:Echinodermata
+Pelobatidae	0.01:Mesobatrachia
+Pelodytidae	0.01:Mesobatrachia
+Pelomedusidae	0.01:Pelomedusoidea
+Pelomedusoidea	0.03:Pelomedusidae Podocnemididae
+Pennatulacea	0.02:Sessiliflorae Subselliflorae
+Peramelemorphia	0.02:Chaeropodidae Peramelidae Thylacomyidae Yaralidae Ameghino
+Peramelidae	0.01:Peramelemorphia
+Percomorpha	0.01:Acanthopterygii
+Percopsiformes	0.01:Paracanthopterygii
+Perissodactyla	0.02:Equidae Rhinocerotidae Tapiridae Anchilophidae Brontotheriidae Chalicotheriidae Deperetellidae Eomoropidae Helaletidae Hyracodontidae Isectolophidae Lophialetidae Lophiodontidae Palaeotheriidae
+Permoplectoptera	0.01:Ephemeroptera
+Perunelomorpha	0.01:Caenogastropoda
+Petalichthyida	0.01:Placodermi
+Peters	0.01:Apodiformes
+Petrodromus	0.01:Macroscelididae
+Petromyzontidae	0.03:Petromyzontiformes
+Petromyzontiformes	0.02:Petromyzontidae
+Petromyzontinae	0.01:Petromyzontidae
+Petropedetidae	0.01:Neobatrachia
+Phacopida	0.01:Trilobita
+Phaethontidae	0.01:Pelecaniformes
+Phalacrocoracidae	0.01:Pelecaniformes
+Phalangeriformes	0.01:Diprotodontia
+Phasianidae	0.01:Galliformes
+Phiomorpha	0.01:Hystricognathi
+Phocidae	0.01:Pinnipedia
+Phoenicopteriformes	0.01:Neognathae
+Phoeniculidae	0.01:Coraciiformes
+Pholadomyoida	0.01:Anomalodesmata
+Pholidota	0.02:Manidae Patriomanidae Weber
+Phoronida	0.02:Phoronidae
+Phoronidae	0.03:Phoronida
+Phoronis	0.01:Phoronidae
+Phoronopsis	0.01:Phoronidae
+Phorusrhacidae	0.01:Gruiformes
+Phrynobatrachidae	0.01:Neobatrachia
+Phrynosomatidae	0.01:Iguania
+Phyllolepida	0.01:Placodermi
+Phylum	0.04:Ordo
+Phylum|Phylum_1	0.01:Superphylum
+Phylum|Phylum_2	0.01:Superphylum
+Phylum|Phylum_3	0.01:Superphylum
+Picidae	0.01:Piciformes
+Piciformes	0.03:Neognathae
+Pilosa	0.01:Xenarthra
+Pinnipedia	0.02:Odobenidae Otariidae Phocidae
+Pipidae	0.01:Mesobatrachia
+Pisciformia	0.01:Ephemeroptera
+Pitheciidae	0.01:Primates
+Placentalia	0.03:Placentalia Owen
+Placodermi	0.02:Acanthothoraci Antiarchi Arthrodira Brindabellaspida Petalichthyida Phyllolepida Ptyctodontida Rhenanida
+Placozoa	0.02:Trichoplacidae
+Plagiomenidae	0.01:Dermoptera
+Platynota	0.03:Sauria
+Plethodontidae	0.01:Salamandroidea
+Pleurodira	0.03:Chelidoidea Pelomedusoidea
+Plicostoma	0.01:Euglenozoa
+Plotopteridae	0.01:Pelecaniformes
+Podargidae	0.01:Caprimulgiformes
+Podicipedidae	0.01:Podicipediformes
+Podicipediformes	0.03:Neognathae
+Podocnemididae	0.01:Pelomedusoidea
+Polychaeta	0.01:Annelida
+Polychrotidae	0.01:Iguania
+Polymixiiformes	0.01:Polymixiomorpha
+Polymixiomorpha	0.03:Teleostei
+Polyplacophora	0.03:Mollusca
+Ponder	0.02:Eogastropoda
+Porifera	0.03:Parazoa
+Porifera	0:	0.01:Template
+Praecardioida	0.01:Protobranchia
+Preactiidae	0.01:Ptychodacteae
+Presbyornithidae	0.01:Anseriformes
+Primates	0.02:Haplorrhini Strepsirrhini Aotidae Atelidae Cebidae Cercopithecidae Cheirogaleidae Daubentoniidae Galagidae Hominidae Hylobatidae Indriidae Lemuridae Lepilemuridae Lorisidae Pitheciidae Tarsiidae
+Pristiformes	0.01:Rajomorphii
+Pristiophoriformes	0.01:Selachimorpha
+Proboscidea	0.02:Deinotheriidae Elephantidae Gomphotheriidae Jozaria Mammutidae Moeritheriidae Stegodontidae Incertae_Sedis_,_==_Name_==__''Proboscidea''_[[Illiger
+Procavia	0.01:Procaviidae
+Procaviidae	0.03:Dendrohyrax Heterohyrax Procavia Thomas
+Procellariidae	0.01:Procellariiformes
+Procellariiformes	0.03:Diomedeidae Hydrobatidae Pelecanoididae Procellariidae
+Prochaetodermatidae	0.01:Caudofoveata
+Procyonidae	0.01:Fissipedia
+Proetida	0.01:Trilobita
+Proganochelydia	0.01:Testudines
+Prolagidae	0.01:Lagomorpha
+Prophaethontidae	0.01:Pelecaniformes
+Prorastomidae	0.01:Sirenia
+Prosopistomatidae	0.01:Caenoidea
+Protacanthopterygii	0.03:Argentiniformes Osmeriformes Salmoniformes Esociformes
+Protantheae	0.04:Actiniaria
+Proteidae	0.01:Salamandroidea
+Protephemeroptera	0.01:Ephemeroptera
+Protobranchia	0.03:Protobranchia Nuculoida Praecardioida Solemyoida
+Protopteridae	0.01:Lepidosireniformes
+Protoptilidae	0.01:Sessiliflorae
+Protorhagae	0.01:Cyclorhagida
+Protosirenidae	0.01:Sirenia
+Protostomia	0.02:Ecdysozoa Spiralia
+Protosuchia	0.01:Crocodilia
+Prototheria	0.01:Mammalia
+Pseudidae	0.01:Neobatrachia
+Psittacidae	0.01:Psittaciformes
+Psittaciformes	0.03:Neognathae
+Psophiidae	0.01:Gruiformes
+Pterioida	0.01:Pteriomorphia
+Pteriomorphia	0.02:Arcoida Mytiloida Ostreoida Pterioida Beurlen
+Pterobranchia	0.01:Hemichordata
+Pteroclididae	0.01:Pteroclidiformes
+Pteroclidiformes	0.03:Neognathae
+Pterocnemia	0.04:Pterocnemia G.R._Gray
+Pteropodidae	0.01:Megachiroptera
+Pterygota	0.03:Dicondylia
+Ptilocercidae	0.01:Scandentia
+Ptychadenidae	0.01:Neobatrachia
+Ptychodacteae	0.03:Preactiidae Ptychodactiidae Stephenson
+Ptychodactiidae	0.01:Ptychodacteae
+Ptychopariida	0.01:Trilobita
+Ptyctodontida	0.01:Placodermi
+Pycnogonida	0.01:Chelicerata
+Pycnophyidae	0.01:Homalorhagae
+Pycraft	0.01:Palaeognathae
+Pygopodidae	0.01:Gekkota
+Pyxicephalidae	0.01:Neobatrachia
+Péron	0.01:Carybdea
+Quadratinae	0.01:Myxinidae
+Rajiformes	0.01:Rajomorphii
+Rajomorphii	0.03:Myliobatiformes Pristiformes Rajiformes Torpediniformes
+Rallidae	0.01:Gruiformes
+Ramphastidae	0.01:Piciformes
+Ranidae	0.01:Neobatrachia
+Ranixalidae	0.01:Neobatrachia
+Raphidae	0.01:Columbiformes
+Redlichiida	0.01:Trilobita
+Redoniidae	0.01:Heterodonta
+Regnum	0.04:Subregnum|Subregnum_1 Subregnum|Subregnum_2 Subregnum|Subregnum_3
+Reig	0.02:Neobatrachia
+Remipedia	0.01:Crustacea
+Remyidae	0.01:Rodentia
+Renaudarctidae	0.01:Arthrotardigrada
+Renillidae	0.01:Sessiliflorae
+Reptilia	0.02:Anapsida Diapsida Incertae_sedis_Reptilia|incertae_sedis Crocodilia Rhynchocephalia Squamata Testudines
+Rhabditida	0.02:Myolaimina Oxyuridomorpha Rhabditina Spirurina Strongylida Tylenchina
+Rhabditina	0.01:Rhabditida
+Rhabdomesida	0.01:Stenolaemata
+Rhacophoridae	0.01:Neobatrachia
+Rhea	0.03:Rhea_americana|R._;americana Rhea_pennata|R._;pennata Brisson
+Rhea americana	0.02:Rhea_americana
+Rhea_americana	0.01:Rhea americana
+Rhea_americana|R._;americana	0.01:Rhea
+Rhea_pennata|R._;pennata	0.01:Rhea
+Rheidae	0.03:Heterorhea Hinasuri Pterocnemia Rhea Bonaparte
+Rheiformes	0.03:Palaeognathae
+Rhenanida	0.01:Placodermi
+Rheobatrachidae	0.01:Neobatrachia
+Rhineuridae	0.01:Amphisbaenia
+Rhinocerotidae	0.01:Perissodactyla
+Rhinodermatidae	0.01:Neobatrachia
+Rhinolophoidea	0.01:Microchiroptera
+Rhinophrynidae	0.01:Mesobatrachia
+Rhinopomatoidea	0.01:Microchiroptera
+Rhopaluridae	0.03:Orthonectida
+Rhyacotritonidae	0.01:Salamandroidea
+Rhynchocephalia	0.03:Sphenodontidae
+Rhynchocyon	0.01:Macroscelididae
+Rhynchonelliformea	0.01:Brachiopoda
+Rhynochetidae	0.01:Gruiformes
+Richard_Heymons|Heymons	0.01:Chelicerata
+Rodentia	0.02:Sciuromorpha Castorimorpha Myomorpha Anomaluromorpha Hystricomorpha Eomyidae Remyidae Bowdich
+Rostroconchia	0.01:Mollusca
+Rugosa	0.01:Hexacorallia
+Ruminantia	0.01:Artiodactyla
+Saccopharyngiformes	0.01:Elopomorpha
+Saccostoma	0.01:Euglenozoa
+Sagittariidae	0.01:Falconiformes
+Sagittoidea	0.01:Chaetognatha
+Salamandridae	0.01:Salamandroidea
+Salamandroidea	0.03:Urodela
+Salmoniformes	0.01:Protacanthopterygii
+Sarcopterygii	0.04:Latimeriidae
+Sauria	0.03:Diploglossa Gekkota Iguania Platynota Scincomorpha
+Saurornithes	0.01:Aves
+Scandentia	0.02:Ptilocercidae Tupaiidae Wagner
+Scaphiopodidae	0.01:Mesobatrachia
+Scaphopoda	0.01:Mollusca
+Schuster	0.01:Apochaela
+Scincidae	0.01:Scincomorpha
+Scincomorpha	0.03:Scincidae Lacertidae Teiidae Cordylidae Gerrhosauridae Gymnophthalmidae Xantusiidae Camp es:Scincomorpha
+Sciurida	0.03:Sciurognathi
+Sciurognathi	0.02:Geomorpha Myodonta Sciurida ca:Esciüromorf de:Hörnchenverwandte en:Sciuromorpha es:Sciuromorpha eu:Sciuromorpha fr:Sciuromorpha id:Sciuromorpha it:Sciuromorpha ja:リス亜目 lv:Vāverveidīgie nl:Sciuromorpha ru:Белкообразные sv:Ekorrartade_gnagare uk:Вивіркоподібні vi:Phân_bộ_Sóc zh:松鼠形亚目
+Sciuromorpha	0.01:Rodentia
+Scleractinia	0.01:Hexacorallia
+Scleroptilidae	0.01:Sessiliflorae
+Sclerospongiae	0.01:Porifera
+Scolecophidia	0.01:Serpentes
+Scopelomorpha	0.03:Teleostei
+Scopidae	0.01:Ciconiiformes
+Scutopidae	0.01:Caudofoveata
+Sebecosuchia	0.01:Crocodilia
+Selachimorpha	0.03:Elasmobranchii
+Selachimorpha_incertae_sedis|Incertae_sedis	0.01:Selachimorpha
+Semnoderidae	0.01:Conchorhagae
+Septibranchia	0.01:Anomalodesmata
+Serpentes	0.03:Squamata
+Sessiliflorae	0.03:Anthoptilidae Chunellidae Echinoptilidae Funiculinidae Kophobelemnidae Protoptilidae Renillidae Scleroptilidae Stachyptilidae Umbellulidae Veretillidae
+Sharpe	0.01:Sphenisciformes
+Siluriformes	0.01:Ostariophysi
+Simpson	0.01:Cynocephalidae
+Sirenia	0.02:Dugongidae Prorastomidae Protosirenidae Trichechidae Illiger
+Sirenidae	0.01:Sirenoidea
+Sirenoidea	0.04:Urodela
+Skolithos	0.01:Phoronidae
+Solemyoida	0.01:Protobranchia
+Solenogastres	0.01:Aplacophora
+Sooglossidae	0.01:Neobatrachia
+Sorbeoconcha	0.01:Caenogastropoda
+Sorberacea	0.01:Urochordata
+Southcott	0.04:Carukia
+Sparassocynidae	0.01:Didelphimorphia
+Spheniscidae	0.01:Sphenisciformes
+Sphenisciformes	0.03:Spheniscidae Incertae_sedis_Sphenisciformes|''incertae_sedis'' Sharpe
+Sphenocephaliformes	0.01:Paracanthopterygii
+Sphenodon	0.01:Sphenodontidae
+Sphenodontidae	0.03:Rhynchocephalia
+Sphenosuchia	0.01:Crocodilia
+Spiralia	0.01:Protostomia
+Spirurina	0.01:Rhabditida
+Squaliformes	0.01:Selachimorpha
+Squamata	0.03:Reptilia
+Squatiniformes	0.01:Selachimorpha
+Stachyptilidae	0.01:Sessiliflorae
+Stanhope	0.01:Afrosoricida
+Steatornithidae	0.01:Caprimulgiformes
+Stegodontidae	0.01:Proboscidea
+Stenolaemata	0.02:Cyclostomatida Cryptostomida Cystoporida Fenestrida Trepostomatida Hederellida Rhabdomesida
+Stenopterygii	0.03:Teleostei
+Stephenson	0.01:Ptychodacteae
+Stomatosuchidae	0.01:Eusuchia
+Stomiiformes	0.01:Stenopterygii
+Strabomantidae	0.01:Neobatrachia
+Strepsirrhini	0.01:Primates
+Strigidae	0.01:Strigiformes
+Strigiformes	0.03:Strigidae Tytonidae Wagler
+Strigopidae	0.01:Psittaciformes
+Strongylida	0.01:Rhabditida
+Struthio	0.03:Linnaeus
+Struthio camelus	0.02:Struthio_camelus Linnaeus
+Struthio_camelus	0.01:Struthio camelus
+Struthionidae	0.03:Struthioniformes
+Struthioniformes	0.03:Struthionidae
+Stunkard	0.02:Rhopaluridae
+Stygarctidae	0.01:Arthrotardigrada
+Subclassis	0.02:Infraclassis|Infraclassis_1 Infraclassis|Infraclassis_2 Infraclassis|Infraclassis_3
+Subclassis|Subclassis_1	0.01:Classis
+Subclassis|Subclassis_2	0.01:Classis
+Subclassis|Subclassis_3	0.01:Classis
+Subordo	0.03:Main_Page Superregnum Regnum Phylum Classis Superordo Ordo Subordo Infraordo|Infraordo_1 Infraordo|Infraordo_2 Infraordo|Infraordo_3
+Subordo|Subordo_1	0.01:Ordo
+Subordo|Subordo_2	0.01:Ordo
+Subordo|Subordo_3	0.01:Ordo
+Subphylum|Subphylum_1	0.01:Phylum
+Subphylum|Subphylum_2	0.01:Phylum
+Subphylum|Subphylum_3	0.01:Phylum
+Subregnum	0.02:Infraregnum|Infraregnum_1 Infraregnum|Infraregnum_2 Infraregnum|Infraregnum_3
+Subregnum|Subregnum_1	0.01:Regnum
+Subregnum|Subregnum_2	0.01:Regnum
+Subregnum|Subregnum_3	0.01:Regnum
+Subselliflorae	0.01:Pennatulacea
+Suina	0.01:Artiodactyla
+Sulidae	0.01:Pelecaniformes
+Superordo	0.02:Ordo
+Superphylum	0.02:Phylum|Phylum_1 Phylum|Phylum_2 Phylum|Phylum_3
+Superregnum	0.02:Ordo
+Swenzia	0.01:Latimeriidae
+Symmoriida	0.01:Selachimorpha
+Symphyla	0.01:Myriapoda
+Tabulata	0.01:Hexacorallia
+Tachyglossidae	0.01:Monotremata
+Talpina	0.01:Phoronidae
+Tamoya	0.02:Müller
+Tapiridae	0.01:Perissodactyla
+Tardigrada	0.02:Eutardigrada Heterotardigrada Mesotardigrada
+Tarsiidae	0.01:Primates
+Teiidae	0.01:Scincomorpha
+Teleostei	0.02:Acanthopterygii Clupeomorpha Cyclosquamata Elopomorpha Lampridiomorpha Ostariophysi Osteoglossomorpha Paracanthopterygii Polymixiomorpha Protacanthopterygii Scopelomorpha Stenopterygii
+Teloganodidae	0.01:Ephemerelloidea
+Template	0.12000000000000001:Calcinea	0:
+Templates	0:	0.01:Wikispecies
+Tenrecomorpha	0.01:Afrosoricida
+Tentaculata	0.03:Ctenophora
+Testudines	0.03:Cryptodira Paracryptodira Pleurodira Proganochelydia Incertae_sedis_,_==_Name_==__Testudines_[[Linnaeus
+Testudinoidea	0.01:Cryptodira
+Tetrapoda	0.01:Sarcopterygii
+Thalattosuchia	0.01:Crocodilia
+Thaliacea	0.01:Urochordata
+Thenaria	0.04:Nyantheae Thenaria Acontiaria Endomyaria Mesomyaria Carlgren
+Theria	0.01:Mammalia
+Thomas	0.01:Procaviidae
+Threskiornithidae	0.01:Ciconiiformes
+Thylacinidae	0.01:Dasyuromorphia
+Thylacomyidae	0.01:Peramelemorphia
+Tinamidae	0.01:Tinamiformes
+Tinamiformes	0.03:Palaeognathae
+Tobediscussed	0:	0.01:Template
+Todidae	0.01:Coraciiformes
+Torpediniformes	0.01:Rajomorphii
+Traver	0.01:Caenoidea
+Trepostomatida	0.01:Stenolaemata
+Trichechidae	0.01:Sirenia
+Trichoplacidae	0.01:Placozoa
+Trichoplax	0.03:Trichoplax F.E._von_Schultze|Schultze Trichoplax_adhaerens F.E._von_Schultze|Schultze
+Trichoplax_adhaerens	0.01:Trichoplax
+Tricorythidae	0.01:Ephemerelloidea
+Trigonoidea	0.01:Paleoheterodonta
+Trilobita	0.03:Trilobitomorpha
+Trilobitomorpha	0.02:Trilobita
+Trionychoidea	0.01:Cryptodira
+Tripedalia	0.03:Conant
+Trochilidae	0.01:Trochiliformes
+Trochiliformes	0.03:Neognathae
+Trogonidae	0.01:Trogoniformes
+Trogoniformes	0.03:Trogonidae
+Trogonophidae	0.01:Amphisbaenia
+Tropiduridae	0.01:Iguania
+Tryblidiida	0.01:Monoplacophora
+Tubulidentata	0.02:Orycteropodidae Huxley
+Tupaia	0.01:Tupaiidae
+Tupaiidae	0.03:Scandentia
+Turnicidae	0.01:Turniciformes
+Turniciformes	0.03:Turnicidae bg:Трипръстки ca:Turnícid da:Løbehøns de:Laufhühnchen en:Buttonquail eo:Turnicedoj es:Turnicidae fi:Pyyjuoksijat fr:Turnicidae hr:Prepeličarke hu:Guvatfürjfélék it:Turnicidae
+Tylenchina	0.01:Rhabditida
+Tylopoda	0.01:Artiodactyla
+Typhlocoela	0.01:Tentaculata
+Tyranni	0.02:Eurylaimides Tyrannides
+Tyrannides	0.01:Tyranni
+Tytonidae	0.01:Strigiformes
+Umbellulidae	0.01:Sessiliflorae
+Unassigned_Didelphimorphia|Unassigned	0.01:Didelphimorphia
+Unassigned_Diprotodontia|Unassigned	0.01:Diprotodontia
+Unionoida	0.01:Paleoheterodonta
+Upupidae	0.01:Coraciiformes
+Urnatellida	0.01:Entoprocta
+Urochordata	0.02:Ascidiacea Larvacea Thaliacea Sorberacea
+Urodela	0.02:Cryptobranchoidea Salamandroidea Sirenoidea
+Urogale	0.01:Tupaiidae
+Ursidae	0.01:Fissipedia
+Varanidae	0.01:Platynota
+Veneroida	0.01:Heterodonta
+Veretillidae	0.01:Sessiliflorae
+Vertebrata	0.02:Anaspida Conodonta Galeaspida Hyperoartia Gnathostomata_,_==_Name_==__[[Vertebrata
+Vespertilionoidea	0.01:Microchiroptera
+Vetigastropoda	0.01:Orthogastropoda
+Vetulicolia	0.01:Deuterostomia
+Viverridae	0.01:Fissipedia
+Vombatiformes	0.01:Diprotodontia
+Wagler	0.02:Psittaciformes
+Wagner	0.01:Scandentia
+Weber	0.01:Pholidota
+Wikispecies	0.02:Templates	0:
+Xantusiidae	0.01:Scincomorpha
+Xenacanthida	0.01:Selachimorpha
+Xenarthra	0.02:Cingulata Pilosa Cope
+Xenosauridae	0.01:Diploglossa
+Xenoturbellida	0.01:Deuterostomia
+Xenusia	0.01:Onychophora
+Yaralidae	0.01:Peramelemorphia
+Zoantharia	0.01:Hexacorallia
+ar:قطويات	0.01:Pteroclidiformes
+basal_Dicondylia	0.01:Dicondylia
+basal_Insecta	0.01:Insecta
+basal_Pterygota	0.01:Pterygota
+bg:Трипръстки	0.01:Turniciformes
+ca:Esciüromorf	0.01:Sciurognathi
+ca:Lobata	0.01:Lobata
+ca:Turnícid	0.01:Turniciformes
+da:Løbehøns	0.01:Turniciformes
+de:Caenogastropoda	0.01:Caenogastropoda
+de:Heterodonta	0.01:Heterodonta
+de:Hörnchenverwandte	0.01:Sciurognathi
+de:Laufhühnchen	0.01:Turniciformes
+de:Lobata	0.01:Lobata
+de:Orthogastropoda	0.01:Orthogastropoda
+en:Buttonquail	0.01:Turniciformes
+en:Caenogastropoda	0.01:Caenogastropoda
+en:Heterodonta	0.01:Heterodonta
+en:Lobata	0.01:Lobata
+en:Orthogastropoda	0.01:Orthogastropoda
+en:Sciuromorpha	0.01:Sciurognathi
+eo:Turnicedoj	0.01:Turniciformes
+es:Caenogastropoda	0.01:Caenogastropoda
+es:Heterodonta	0.01:Heterodonta
+es:Orthogastropoda	0.01:Orthogastropoda
+es:Scincomorpha	0.01:Scincomorpha
+es:Sciuromorpha	0.01:Sciurognathi
+es:Turnicidae	0.01:Turniciformes
+eu:Heterodonta	0.01:Heterodonta
+eu:Sciuromorpha	0.01:Sciurognathi
+fi:Pyyjuoksijat	0.01:Turniciformes
+fr:Caenogastropoda	0.01:Caenogastropoda
+fr:Heterodonta	0.01:Heterodonta
+fr:Lobata	0.01:Lobata
+fr:Orthogastropoda	0.01:Orthogastropoda
+fr:Sciuromorpha	0.01:Sciurognathi
+fr:Turnicidae	0.01:Turniciformes
+hr:Prepeličarke	0.01:Turniciformes
+hu:Guvatfürjfélék	0.01:Turniciformes
+id:Sciuromorpha	0.01:Sciurognathi
+incertae_sedis_Elasmobranchii|incertae_sedis	0.01:Elasmobranchii
+is:Kambhvelja	0.01:Lobata
+it:Caenogastropoda	0.01:Caenogastropoda
+it:Heterodonta	0.01:Heterodonta
+it:Sciuromorpha	0.01:Sciurognathi
+it:Turnicidae	0.01:Turniciformes
+ja:リス亜目	0.01:Sciurognathi
+ko:이치아강	0.01:Heterodonta
+la:Caenogastropoda	0.01:Caenogastropoda
+lt:Heterodonta	0.01:Heterodonta
+lv:Vāverveidīgie	0.01:Sciurognathi
+nl:Sciuromorpha	0.01:Sciurognathi
+no:Caenogastropoda	0.01:Caenogastropoda
+pl:Lobata	0.01:Lobata
+pt:Heterodonta	0.01:Heterodonta
+ru:Белкообразные	0.01:Sciurognathi
+ru:Настоящие_улитки	0.01:Orthogastropoda
+sk:Heterodonta	0.01:Heterodonta
+sv:Ekorrartade_gnagare	0.01:Sciurognathi
+tr:Orthogastropoda	0.01:Orthogastropoda
+uk:Вивіркоподібні	0.01:Sciurognathi
+vi:Phân_bộ_Sóc	0.01:Sciurognathi
+zh:松鼠形亚目	0.01:Sciurognathi
+zh:直腹足亞綱	0.01:Orthogastropoda

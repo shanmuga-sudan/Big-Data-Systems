@@ -1,0 +1,14 @@
+        private void Mutate(Individual child, double maxGene, double mutateRate,
+            double mutateChange)
+        {
+            double hi = mutateChange * maxGene;
+            double lo = -hi;
+            for (int i = 0; i < child.chromosome.Length; ++i)
+            {
+                if (rnd.NextDouble() < mutateRate)
+                {
+                    double delta = (hi - lo) * rnd.NextDouble() + lo;
+                    child.chromosome[i] += delta;
+                }
+            }
+        }

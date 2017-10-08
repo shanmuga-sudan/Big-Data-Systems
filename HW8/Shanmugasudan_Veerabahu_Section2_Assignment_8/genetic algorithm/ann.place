@@ -1,0 +1,10 @@
+        private static void Place(Individual child1, Individual child2,
+            Individual[] population)
+        {
+            // place child1 and child2 replacing two worst individuals
+            int popSize = population.Length;
+            Array.Sort(population);
+            population[popSize - 1] = child1;
+            population[popSize - 2] = child2;
+            return;
+        }

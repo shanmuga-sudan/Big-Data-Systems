@@ -1,0 +1,28 @@
+        private Individual[] Select(int n, Individual[] population, double tau) 
+        {
+            // tau is selection pressure = % of population to grab
+            int popSize = population.Length;
+            int[] indexes = new int[popSize];
+            for (int i = 0; i < indexes.Length; ++i)
+                indexes[i] = i;
+
+            for (int i = 0; i < indexes.Length; ++i) // shuffle
+            {
+                int r = rnd.Next(i, indexes.Length);
+                int tmp = indexes[r]; indexes[r] = indexes[i]; indexes[i] = tmp;
+            }
+
+            int tournSize = (int)(tau * popSize);
+            if (tournSize < n) tournSize = n;
+                Individual[] candidates = new Individual[tournSize];
+
+            for (int i = 0; i < tournSize; ++i)
+                candidates[i] = population[indexes[i]];
+            Array.Sort(candidates);
+
+            Individual[] results = new Individual[n];
+            for (int i = 0; i < n; ++i)
+                results[i] = candidates[i];
+
+            return results;
+        }

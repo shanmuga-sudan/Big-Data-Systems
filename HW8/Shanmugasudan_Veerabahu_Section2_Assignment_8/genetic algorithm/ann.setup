@@ -1,0 +1,142 @@
+    public class ann
+    {
+        private int numInput;
+        private int numHidden;
+        private int numOutput;
+        private double[] inputs;
+        private double[][] ihWeights;
+        private double[] hBiases;
+        private double[] hOutputs;
+        private double[][] hoWeights;
+        private double[] oBiases;
+        private double[] outputs;
+
+        private Random rnd;
+
+        public ann(int numInput, int numHidden, int numOutput)
+        {
+            this.numInput = numInput;
+            this.numHidden = numHidden;
+            this.numOutput = numOutput;
+            this.inputs = new double[numInput];
+            this.ihWeights = MakeMatrix(numInput, numHidden);
+            this.hBiases = new double[numHidden];
+            this.hOutputs = new double[numHidden];
+            this.hoWeights = MakeMatrix(numHidden, numOutput);
+            this.oBiases = new double[numOutput];
+            this.outputs = new double[numOutput];
+            rnd = new Random(0);
+        }
+
+        private static double[][] MakeMatrix(int rows, int cols)
+        {
+            // helper for NN ctor
+            double[][] result = new double[rows][];
+            for (int r = 0; r < result.Length; ++r)
+                result[r] = new double[cols];
+            return result;
+        }
+
+        public void SetWeights(double[] weights)
+        {
+            // sets weights and biases from weights[]
+            int numWeights = (numInput * numHidden) +
+                (numHidden * numOutput) + numHidden + numOutput;
+            if (weights.Length != numWeights)
+                throw new Exception("Bad weights array length: ");
+
+            int k = 0; // points into weights param
+
+            for (int i = 0; i < numInput; ++i)
+                for (int j = 0; j < numHidden; ++j)
+                    ihWeights[i][j] = weights[k++];
+            for (int i = 0; i < numHidden; ++i)
+                hBiases[i] = weights[k++];
+            for (int i = 0; i < numHidden; ++i)
+                for (int j = 0; j < numOutput; ++j)
+                    hoWeights[i][j] = weights[k++];
+            for (int i = 0; i < numOutput; ++i)
+                oBiases[i] = weights[k++];
+        }
+
+        public double[] GetWeights()
+        {
+            // returns current weights and biases
+            int numWeights = (numInput * numHidden) +
+                (numHidden * numOutput) + numHidden + numOutput;
+            double[] result = new double[numWeights];
+            int k = 0;
+            for (int i = 0; i < ihWeights.Length; ++i)
+                for (int j = 0; j < ihWeights[0].Length; ++j)
+                    result[k++] = ihWeights[i][j];
+            for (int i = 0; i < hBiases.Length; ++i)
+                result[k++] = hBiases[i];
+            for (int i = 0; i < hoWeights.Length; ++i)
+                for (int j = 0; j < hoWeights[0].Length; ++j)
+                    result[k++] = hoWeights[i][j];
+            for (int i = 0; i < oBiases.Length; ++i)
+                result[k++] = oBiases[i];
+            return result;
+        }
+
+        public double[] ComputeYs(double[] xValues)
+        {
+            // feed-forward mechanism for NN classifier
+            if (xValues.Length != numInput)
+            throw new Exception("Bad xValues array length");
+
+            double[] hSums = new double[numHidden];
+            double[] oSums = new double[numOutput];
+
+            for (int i = 0; i < xValues.Length; ++i)
+                this.inputs[i] = xValues[i];
+
+            for (int j = 0; j < numHidden; ++j)
+                for (int i = 0; i < numInput; ++i)
+                    hSums[j] += this.inputs[i] * this.ihWeights[i][j];
+
+            for (int i = 0; i < numHidden; ++i)
+                hSums[i] += this.hBiases[i];
+
+            for (int i = 0; i < numHidden; ++i)
+                this.hOutputs[i] = HyperTanFunction(hSums[i]);
+
+            for (int j = 0; j < numOutput; ++j)
+                for (int i = 0; i < numHidden; ++i)
+                    oSums[j] += hOutputs[i] * hoWeights[i][j];
+
+            for (int i = 0; i < numOutput; ++i)
+                oSums[i] += oBiases[i];
+
+            double[] softOut = Softmax(oSums);
+            Array.Copy(softOut, outputs, softOut.Length);
+
+            double[] retResult = new double[numOutput];
+            Array.Copy(this.outputs, retResult, retResult.Length);
+            return retResult;
+        }
+
+        private static double HyperTanFunction(double x)
+        {
+            if (x < -20.0) return -1.0;
+            else if (x > 20.0) return 1.0;
+            else return Math.Tanh(x);
+        }
+
+        private static double[] Softmax(double[] oSums)
+        {
+            double max = oSums[0];
+            for (int i = 0; i < oSums.Length; ++i)
+                if (oSums[i] > max) max = oSums[i];
+
+            // determine scaling factor
+            double scale = 0.0;
+            for (int i = 0; i < oSums.Length; ++i)
+                scale += Math.Exp(oSums[i] - max);
+
+            double[] result = new double[oSums.Length];
+            for (int i = 0; i < oSums.Length; ++i)
+                result[i] = Math.Exp(oSums[i] - max) / scale;
+
+            return result; // scaled so xi sum to 1.0
+        }
